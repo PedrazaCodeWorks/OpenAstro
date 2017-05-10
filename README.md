@@ -41,7 +41,4 @@ Reproducible science for the win!
 * [Choosing the binning for a histogram](https://arxiv.org/pdf/0807.4820.pdf)
 * [Probability calculus for inference](https://arxiv.org/pdf/1205.4446.pdf)
 * [Correcting systematic effects in a large set of photometric light curves](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:astro-ph/0502056)
-
-
-
-
+* [Astronomical reach of fundamental physics](http://www.pnas.org/content/111/7/2409.abstract)
