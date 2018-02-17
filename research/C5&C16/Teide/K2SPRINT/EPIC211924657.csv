@@ -1,0 +1,37 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Dec 19 04:30:23 2017
+#
+# CONSTRAINT:  where (MidpointAirmass < 2.
+# CONSTRAINT:  )
+#
+# COLUMN UserName:       User Name
+# COLUMN PlanetName:     Planet Name
+# COLUMN SourceTable:    Source Table
+# COLUMN RA_sex:         RA [sexagesimal]
+# COLUMN Dec_sex:        Dec [sexagesimal]
+# COLUMN Phase:          Phase
+# COLUMN Period:         Period [days]
+# COLUMN TransitDuration: Transit Duration [hours]
+# COLUMN TTV:            TTV flag
+# COLUMN Algorithm:      Algorithm
+# COLUMN PropMidpointUnc: Propagated Midpoint Uncertainty [days]
+# COLUMN MidpointCalendar: Event Midpoint Calendar UT
+# COLUMN MidpointJD:     Event Midpoint Calendar UT
+# COLUMN MidpointAirmass: Event Midpoint Airmass
+#
+rowid,UserName,PlanetName,SourceTable,RA_sex,Dec_sex,Phase,Period,TransitDuration,TTV,Algorithm,PropMidpointUnc,MidpointCalendar,MidpointJD,MidpointAirmass
+2,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,12/30/2017 05:44,2458117.73929,1.24
+3,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,01/07/2018 04:07,2458125.67211,1.08
+4,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,01/15/2018 02:31,2458133.60493,1.02
+5,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,01/23/2018 00:54,2458141.53774,1.03
+6,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,01/30/2018 23:17,2458149.47056,1.11
+7,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,02/07/2018 21:40,2458157.40337,1.31
+9,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,02/15/2018 20:04,2458165.33619,1.74
+10,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,02/21/2018 02:59,2458170.62473,1.43
+11,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,03/01/2018 01:22,2458178.55755,1.17
+12,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,03/08/2018 23:46,2458186.49036,1.05
+13,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,03/16/2018 22:09,2458194.42318,1.01
+14,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,03/24/2018 20:32,2458202.35599,1.05
+16,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,04/15/2018 00:14,2458223.51017,1.76
+17,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,04/22/2018 22:37,2458231.44298,1.32
+18,,Custom: EPIC211924657,,08h40m06.43s,19d05m34.37s,0.00,2.644271800,1.3000,,Transit Midpoint,0.000000,04/30/2018 21:01,2458239.37580,1.12

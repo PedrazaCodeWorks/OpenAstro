@@ -1,0 +1,19 @@
+#see notes: https://docs.google.com/document/d/1hcS9Ou48ykxQDqfAxpjDBAmBolpflsQdY9tF2sOIzFk/edit
+
+Host:
+Vmag			11.6
+Spectral type		K6
+Teff 			4430.0 (± 120.0) K
+Ms			0.69 (± 0.05) MSun
+Rs			0.66 (± 0.02) RSun
+
+Planet:
+Mp			0.12 (± 0.01) MJ
+Rp			0.94 (± 0.02) RJ
+RA: 			12:33:32.848	
+DEC:			-10:08:46.14
+
+Transit parameters:
+Period:	 		5.721490000 hr
+transit duration: 		2.7528 hr (0.11411 d)
+Mid-transit time:		2457584.32975		

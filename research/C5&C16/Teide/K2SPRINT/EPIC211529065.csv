@@ -1,0 +1,30 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Dec 19 04:28:18 2017
+#
+# CONSTRAINT:  where (MidpointAirmass < 2.
+# CONSTRAINT:  )
+#
+# COLUMN UserName:       User Name
+# COLUMN SourceTable:    Source Table
+# COLUMN Phase:          Phase
+# COLUMN Period:         Period [days]
+# COLUMN TransitDuration: Transit Duration [hours]
+# COLUMN TTV:            TTV flag
+# COLUMN Algorithm:      Algorithm
+# COLUMN PropMidpointUnc: Propagated Midpoint Uncertainty [days]
+# COLUMN MidpointCalendar: Event Midpoint Calendar UT
+# COLUMN MidpointJD:     Event Midpoint Calendar UT
+# COLUMN MidpointAirmass: Event Midpoint Airmass
+#
+rowid,UserName,SourceTable,Phase,Period,TransitDuration,TTV,Algorithm,PropMidpointUnc,MidpointCalendar,MidpointJD,MidpointAirmass
+1,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,01/01/2018 06:59,2458119.79149,1.77
+2,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,01/10/2018 02:11,2458128.59164,1.04
+4,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,02/01/2018 02:12,2458150.59201,1.07
+5,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,02/09/2018 21:24,2458159.39216,1.43
+6,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,02/23/2018 02:13,2458172.59239,1.28
+7,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,03/03/2018 21:25,2458181.39253,1.13
+8,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,03/17/2018 02:13,2458194.59276,1.86
+9,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,03/25/2018 21:25,2458203.39291,1.03
+10,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,04/16/2018 21:26,2458225.39328,1.08
+11,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,05/08/2018 21:26,2458247.39365,1.31
+12,,,0.00,4.400074300,1.5209,,Transit Midpoint,0.000000,05/30/2018 21:27,2458269.39402,1.97

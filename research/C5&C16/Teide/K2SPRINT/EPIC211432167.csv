@@ -1,0 +1,31 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Dec 19 04:27:38 2017
+#
+# CONSTRAINT:  where (MidpointAirmass < 2.
+# CONSTRAINT:  )
+#
+# COLUMN UserName:       User Name
+# COLUMN PlanetName:     Planet Name
+# COLUMN SourceTable:    Source Table
+# COLUMN RA_sex:         RA [sexagesimal]
+# COLUMN Dec_sex:        Dec [sexagesimal]
+# COLUMN Phase:          Phase
+# COLUMN Period:         Period [days]
+# COLUMN TransitDuration: Transit Duration [hours]
+# COLUMN TTV:            TTV flag
+# COLUMN Algorithm:      Algorithm
+# COLUMN PropMidpointUnc: Propagated Midpoint Uncertainty [days]
+# COLUMN MidpointCalendar: Event Midpoint Calendar UT
+# COLUMN MidpointJD:     Event Midpoint Calendar UT
+# COLUMN MidpointAirmass: Event Midpoint Airmass
+#
+rowid,UserName,PlanetName,SourceTable,RA_sex,Dec_sex,Phase,Period,TransitDuration,TTV,Algorithm,PropMidpointUnc,MidpointCalendar,MidpointJD,MidpointAirmass
+1,,Custom: EPIC211432167,,08h51m27.00s,12d07m41.02s,0.00,5.817702400,2.9000,,Transit Midpoint,0.000000,12/20/2017 04:02,2458107.66830,1.04
+2,,Custom: EPIC211432167,,08h51m27.00s,12d07m41.02s,0.00,5.817702400,2.9000,,Transit Midpoint,0.000000,12/25/2017 23:39,2458113.48600,1.87
+3,,Custom: EPIC211432167,,08h51m27.00s,12d07m41.02s,0.00,5.817702400,2.9000,,Transit Midpoint,0.000000,01/18/2018 06:09,2458136.75681,1.91
+4,,Custom: EPIC211432167,,08h51m27.00s,12d07m41.02s,0.00,5.817702400,2.9000,,Transit Midpoint,0.000000,01/24/2018 01:47,2458142.57452,1.04
+5,,Custom: EPIC211432167,,08h51m27.00s,12d07m41.02s,0.00,5.817702400,2.9000,,Transit Midpoint,0.000000,01/29/2018 21:24,2458148.39222,1.84
+6,,Custom: EPIC211432167,,08h51m27.00s,12d07m41.02s,0.00,5.817702400,2.9000,,Transit Midpoint,0.000000,02/22/2018 03:54,2458171.66303,1.95
+7,,Custom: EPIC211432167,,08h51m27.00s,12d07m41.02s,0.00,5.817702400,2.9000,,Transit Midpoint,0.000000,02/27/2018 23:32,2458177.48073,1.04
+8,,Custom: EPIC211432167,,08h51m27.00s,12d07m41.02s,0.00,5.817702400,2.9000,,Transit Midpoint,0.000000,03/29/2018 01:39,2458206.56924,1.98
+9,,Custom: EPIC211432167,,08h51m27.00s,12d07m41.02s,0.00,5.817702400,2.9000,,Transit Midpoint,0.000000,04/03/2018 21:17,2458212.38694,1.04

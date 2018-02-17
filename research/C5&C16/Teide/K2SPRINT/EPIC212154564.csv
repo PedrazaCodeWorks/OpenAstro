@@ -1,0 +1,28 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Dec 19 20:23:52 2017
+#
+# COLUMN UserName:       User Name
+# COLUMN PlanetName:     Planet Name
+# COLUMN SourceTable:    Source Table
+# COLUMN RA_sex:         RA [sexagesimal]
+# COLUMN Dec_sex:        Dec [sexagesimal]
+# COLUMN Phase:          Phase
+# COLUMN Period:         Period [days]
+# COLUMN TransitDuration: Transit Duration [hours]
+# COLUMN TTV:            TTV flag
+# COLUMN Algorithm:      Algorithm
+# COLUMN PropMidpointUnc: Propagated Midpoint Uncertainty [days]
+# COLUMN MidpointCalendar: Event Midpoint Calendar UT
+# COLUMN MidpointJD:     Event Midpoint Calendar UT
+# COLUMN MidpointAirmass: Event Midpoint Airmass
+#
+rowid,UserName,PlanetName,SourceTable,RA_sex,Dec_sex,Phase,Period,TransitDuration,TTV,Algorithm,PropMidpointUnc,MidpointCalendar,MidpointJD,MidpointAirmass
+1,,Custom,,08h54m33.89s,23d07m58.40s,0.00,6.413497600,1.6197,,Transit Midpoint,0.000000,12/23/2017 02:51,2458110.61914,1.03
+2,,Custom,,08h54m33.89s,23d07m58.40s,0.00,6.413497600,1.6197,,Transit Midpoint,0.000000,01/04/2018 22:42,2458123.44613,1.89
+3,,Custom,,08h54m33.89s,23d07m58.40s,0.00,6.413497600,1.6197,,Transit Midpoint,0.000000,01/24/2018 04:28,2458142.68663,1.25
+4,,Custom,,08h54m33.89s,23d07m58.40s,0.00,6.413497600,1.6197,,Transit Midpoint,0.000000,02/06/2018 00:19,2458155.51362,1.01
+5,,Custom,,08h54m33.89s,23d07m58.40s,0.00,6.413497600,1.6197,,Transit Midpoint,0.000000,02/18/2018 20:10,2458168.34062,1.65
+6,,Custom,,08h54m33.89s,23d07m58.40s,0.00,6.413497600,1.6197,,Transit Midpoint,0.000000,03/10/2018 01:56,2458187.58111,1.35
+7,,Custom,,08h54m33.89s,23d07m58.40s,0.00,6.413497600,1.6197,,Transit Midpoint,0.000000,03/22/2018 21:47,2458200.40810,1.00
+8,,Custom,,08h54m33.89s,23d07m58.40s,0.00,6.413497600,1.6197,,Transit Midpoint,0.000000,04/23/2018 23:24,2458232.47559,1.48
+9,,Custom,,08h54m33.89s,23d07m58.40s,0.00,6.413497600,1.6197,,Transit Midpoint,0.000000,06/07/2018 20:52,2458277.37008,1.66

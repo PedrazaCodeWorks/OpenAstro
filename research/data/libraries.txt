@@ -1,0 +1,60 @@
+pyfits
+This library provides facilities for reading, manipulating and writing FITS files.
+
+pywcs
+This is a python library for handling World Coordinate System information in FITS headers. It uses the wcslib C library written by Mark Calabretta.
+
+Requires pyfits and wcslib. The latter comes with the pywcs distribution.
+
+coords
+This library can be used for managing astronomical coordinate systems. Ultimately, this library aims to provide facilities needed by astronomers for planning and preparing for observing runs.
+
+It currently provides facilities for coordinate conversions and is under development.
+
+astroasciidata, vo.table, asciitable and ATpy
+Together with pyfits, these libraries provide comprehensive facilities for dealing with the variety of tables used in storing astronomical data. For example, asciitable can read data from tables in the CDS format provided by VizieR and ApJ. ATpy can read daophot data files.
+
+pyraf, urwid and pmw
+Pyraf provides an interface to the NOAO IRAF system (also see http://www.iraf.net/ for IRAF user support). Libraries urwid and pmw are dependencies for pyraf.
+
+numdisplay
+This library provides an interface to the DS9 image display program. Numdisplay can also interact with the ximtool image display program.
+
+There is another package, pyds9, from the developers of DS9, that provides the similar functionality.
+
+RO is another library that has a module for interacting with DS9. The library, pyregion, can parse DS9 region files.
+
+matplotlib
+Matplotlib is a 2D plotting library, with some 3D plotting functionality.
+
+APLpy
+APLpy builds on matplotlib, and allows creation of production-quality plots of astronomical imaging data in FITS format. Some of the features provided are overlaying coordinate grids, 3-color RGB image display, contours and markers etc., .
+
+Kapteyn
+A collection of modules for handling World Coordinate System transformations, coordinate conversions, handling FITS files, plotting and others. It also has a module for parsing and interpreting coordinate information entered as strings.
+
+PyEphem, pyslalib and pytpm
+PyEphem can be used to get quick answers to questions such as, Which constellation is Jupiter in tonight?, What is the rising/setting time for Moon, at a particular location?, What is the current Julian Date?. It also has methods for coordinate conversion, finding sidereal time and others. PyEphem has built-in ephemerides for major planets and can read ephemerides in various formats.
+
+PyEphem uses C routines from the XEphem package and a copy of the C library is included with the source code.
+
+Pyslalib is a python interface to the SLALIB fortran library. This can be used to perform lower level astrometry calculations such as, direction between points on a sphere, conversion between Cartesian and spherical coordinates and also higher level computations such as calculation of Julian Dates. It also has functions to process sexagesimal string into angles, converting radians into degrees, arcminutes and arcseconds and other.
+
+This module comes with a version of the SLALIB fortran library.
+
+Pytpm is an interface to Jeff Percival‘s Telescope Pointing Machine C library. This library is similar to SLALIB in that it provides functions for performing astrometry calculations, but differs from SLALIB in adopting a "state machine" approach to performing these calculations. An end user can perform coordinate conversion calculations without having to deal with the details of the procedure, such as the order of applying individual routines. One call to a function, specifying the starting "state" and end "state" is all that is required for performing the appropriate conversion.
+
+Pytpm includes a copy of the TPM C library that is part of the coords package.
+
+Together with Kapteyn, these three modules provide most of the facilities for performing astrometry calculations.
+
+Scipy and ScientificPython
+Modules implementing various algorithms for scientific computing.
+
+Sphinx
+Sphinx generates formatted documentation from text documents written in the reStructuredText format. This module can read "docstrings" from python code and include them in the final document. It incorporates several features such as running "doctests" in python code, producing plots by running python code, links to source files and others. Most of these functionalities are provided using "sphinx extensions". Source code for matplotlib, matplotlib sampledoc tutorial and the sphinxcontrib collection include many such extensions, in addition to those that come with sphinx.
+
+nose
+This is a framework for writing tests for python code. It can find unit tests in python source files and execute them. It provides various other features for performing test on python code.
+
+- See more at: http://www.astropython.org/packages/primer-on-python-for-astronomy84/#sthash.aEYc7Kz0.dpuf

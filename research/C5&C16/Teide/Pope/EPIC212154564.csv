@@ -1,0 +1,28 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Dec 19 02:20:59 2017
+#
+# COLUMN UserName:       User Name
+# COLUMN PlanetName:     Planet Name
+# COLUMN SourceTable:    Source Table
+# COLUMN RA_sex:         RA [sexagesimal]
+# COLUMN Dec_sex:        Dec [sexagesimal]
+# COLUMN Phase:          Phase
+# COLUMN Period:         Period [days]
+# COLUMN TransitDuration: Transit Duration [hours]
+# COLUMN TTV:            TTV flag
+# COLUMN Algorithm:      Algorithm
+# COLUMN PropMidpointUnc: Propagated Midpoint Uncertainty [days]
+# COLUMN MidpointCalendar: Event Midpoint Calendar UT
+# COLUMN MidpointJD:     Event Midpoint Calendar UT
+# COLUMN MidpointAirmass: Event Midpoint Airmass
+#
+rowid,UserName,PlanetName,SourceTable,RA_sex,Dec_sex,Phase,Period,TransitDuration,TTV,Algorithm,PropMidpointUnc,MidpointCalendar,MidpointJD,MidpointAirmass
+1,,Custom: EPIC212154564,,08h54m33.88s,23d07m58.40s,0.00,6.413539000,,,Transit Midpoint,0.000000,12/23/2017 03:03,2458110.62739,1.02
+2,,Custom: EPIC212154564,,08h54m33.88s,23d07m58.40s,0.00,6.413539000,,,Transit Midpoint,0.000000,01/04/2018 22:54,2458123.45447,1.76
+3,,Custom: EPIC212154564,,08h54m33.88s,23d07m58.40s,0.00,6.413539000,,,Transit Midpoint,0.000000,01/24/2018 04:40,2458142.69508,1.29
+4,,Custom: EPIC212154564,,08h54m33.88s,23d07m58.40s,0.00,6.413539000,,,Transit Midpoint,0.000000,02/06/2018 00:31,2458155.52216,1.01
+5,,Custom: EPIC212154564,,08h54m33.88s,23d07m58.40s,0.00,6.413539000,,,Transit Midpoint,0.000000,02/18/2018 20:22,2458168.34924,1.55
+6,,Custom: EPIC212154564,,08h54m33.88s,23d07m58.40s,0.00,6.413539000,,,Transit Midpoint,0.000000,03/10/2018 02:09,2458187.58986,1.41
+7,,Custom: EPIC212154564,,08h54m33.88s,23d07m58.40s,0.00,6.413539000,,,Transit Midpoint,0.000000,03/22/2018 22:00,2458200.41694,1.00
+8,,Custom: EPIC212154564,,08h54m33.88s,23d07m58.40s,0.00,6.413539000,,,Transit Midpoint,0.000000,04/23/2018 23:37,2458232.48463,1.57
+9,,Custom: EPIC212154564,,08h54m33.88s,23d07m58.40s,0.00,6.413539000,,,Transit Midpoint,0.000000,06/07/2018 21:06,2458277.37940,1.79

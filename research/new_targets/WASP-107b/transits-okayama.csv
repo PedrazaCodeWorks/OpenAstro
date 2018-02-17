@@ -1,0 +1,23 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Sat Dec  9 01:03:25 2017
+#
+# COLUMN UserName:       User Name
+# COLUMN SourceTable:    Source Table
+# COLUMN Phase:          Phase
+# COLUMN Period:         Period [days]
+# COLUMN TransitDuration: Transit Duration [hours]
+# COLUMN TTV:            TTV flag
+# COLUMN Algorithm:      Algorithm
+# COLUMN PropMidpointUnc: Propagated Midpoint Uncertainty [days]
+# COLUMN MidpointCalendar: Event Midpoint Calendar UT
+# COLUMN MidpointJD:     Event Midpoint Calendar UT
+# COLUMN MidpointAirmass: Event Midpoint Airmass
+#
+rowid,UserName,SourceTable,Phase,Period,TransitDuration,TTV,Algorithm,PropMidpointUnc,MidpointCalendar,MidpointJD,MidpointAirmass
+1,,Confirmed Planets,0.00,5.721490000,2.7528,0,Transit Midpoint,0.000668,01/20/2018 19:31,2458139.31376,1.41
+2,,Confirmed Planets,0.00,5.721490000,2.7528,0,Transit Midpoint,0.000676,02/12/2018 16:47,2458162.19972,1.51
+3,,Confirmed Planets,0.00,5.721490000,2.7528,0,Transit Midpoint,0.000682,03/01/2018 20:44,2458179.36419,2.80
+4,,Confirmed Planets,0.00,5.721490000,2.7528,0,Transit Midpoint,0.000684,03/07/2018 14:03,2458185.08568,1.87
+5,,Confirmed Planets,0.00,5.721490000,2.7528,0,Transit Midpoint,0.000690,03/24/2018 18:00,2458202.25015,1.83
+6,,Confirmed Planets,0.00,5.721490000,2.7528,0,Transit Midpoint,0.000698,04/16/2018 15:15,2458225.13611,1.50
+7,,Confirmed Planets,0.00,5.721490000,2.7528,0,Transit Midpoint,0.000706,05/09/2018 12:31,2458248.02207,1.41

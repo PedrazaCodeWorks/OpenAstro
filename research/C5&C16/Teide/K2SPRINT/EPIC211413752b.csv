@@ -1,0 +1,39 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Dec 19 04:26:11 2017
+#
+# CONSTRAINT:  where (MidpointAirmass < 2.
+# CONSTRAINT:  )
+#
+# COLUMN UserName:       User Name
+# COLUMN SourceTable:    Source Table
+# COLUMN Phase:          Phase
+# COLUMN Period:         Period [days]
+# COLUMN TransitDuration: Transit Duration [hours]
+# COLUMN TTV:            TTV flag
+# COLUMN Algorithm:      Algorithm
+# COLUMN PropMidpointUnc: Propagated Midpoint Uncertainty [days]
+# COLUMN MidpointCalendar: Event Midpoint Calendar UT
+# COLUMN MidpointJD:     Event Midpoint Calendar UT
+# COLUMN MidpointAirmass: Event Midpoint Airmass
+#
+rowid,UserName,SourceTable,Phase,Period,TransitDuration,TTV,Algorithm,PropMidpointUnc,MidpointCalendar,MidpointJD,MidpointAirmass
+1,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,12/21/2017 23:56,2458109.49727,1.91
+2,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,12/24/2017 03:33,2458111.64835,1.04
+3,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,01/06/2018 01:18,2458124.55483,1.14
+4,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,01/08/2018 04:56,2458126.70591,1.20
+5,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,01/18/2018 23:04,2458137.46132,1.43
+6,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,01/21/2018 02:41,2458139.61240,1.06
+9,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,02/03/2018 00:27,2458152.51888,1.06
+10,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,02/05/2018 04:04,2458154.66996,1.44
+11,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,02/15/2018 22:12,2458165.42537,1.20
+12,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,02/18/2018 01:50,2458167.57645,1.14
+13,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,02/28/2018 19:57,2458178.33185,1.60
+14,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,03/02/2018 23:35,2458180.48293,1.04
+15,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,03/05/2018 03:12,2458182.63401,1.93
+16,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,03/15/2018 21:20,2458193.38941,1.08
+17,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,03/18/2018 00:58,2458195.54049,1.32
+18,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,03/30/2018 22:43,2458208.44698,1.10
+19,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,04/12/2018 20:28,2458221.35346,1.04
+20,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,04/15/2018 00:06,2458223.50454,1.67
+21,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,04/27/2018 21:51,2458236.41103,1.23
+23,,,0.00,2.151080600,2.2181,,Transit Midpoint,0.000000,05/25/2018 21:00,2458264.37507,1.49

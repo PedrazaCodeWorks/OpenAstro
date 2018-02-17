@@ -1,0 +1,28 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Dec 19 01:27:59 2017
+#
+# COLUMN UserName:       User Name
+# COLUMN PlanetName:     Planet Name
+# COLUMN SourceTable:    Source Table
+# COLUMN RA_sex:         RA [sexagesimal]
+# COLUMN Dec_sex:        Dec [sexagesimal]
+# COLUMN Phase:          Phase
+# COLUMN Period:         Period [days]
+# COLUMN TransitDuration: Transit Duration [hours]
+# COLUMN TTV:            TTV flag
+# COLUMN Algorithm:      Algorithm
+# COLUMN PropMidpointUnc: Propagated Midpoint Uncertainty [days]
+# COLUMN MidpointCalendar: Event Midpoint Calendar UT
+# COLUMN MidpointJD:     Event Midpoint Calendar UT
+# COLUMN MidpointAirmass: Event Midpoint Airmass
+#
+rowid,UserName,PlanetName,SourceTable,RA_sex,Dec_sex,Phase,Period,TransitDuration,TTV,Algorithm,PropMidpointUnc,MidpointCalendar,MidpointJD,MidpointAirmass
+1,,Custom: EPIC212099230,,08h32m18.00s,22d00m21.64s,0.00,7.112524100,2.7900,,Transit Midpoint,0.000000,12/21/2017 18:20,2458109.26428,1.04
+2,,Custom: EPIC212099230,,08h32m18.00s,22d00m21.64s,0.00,7.112524100,2.7900,,Transit Midpoint,0.000000,12/28/2017 21:02,2458116.37680,1.64
+3,,Custom: EPIC212099230,,08h32m18.00s,22d00m21.64s,0.00,7.112524100,2.7900,,Transit Midpoint,0.000000,02/02/2018 10:32,2458151.93942,1.81
+4,,Custom: EPIC212099230,,08h32m18.00s,22d00m21.64s,0.00,7.112524100,2.7900,,Transit Midpoint,0.000000,02/09/2018 13:14,2458159.05195,1.06
+5,,Custom: EPIC212099230,,08h32m18.00s,22d00m21.64s,0.00,7.112524100,2.7900,,Transit Midpoint,0.000000,02/16/2018 15:56,2458166.16447,1.16
+6,,Custom: EPIC212099230,,08h32m18.00s,22d00m21.64s,0.00,7.112524100,2.7900,,Transit Midpoint,0.000000,02/23/2018 18:38,2458173.27699,2.76
+7,,Custom: EPIC212099230,,08h32m18.00s,22d00m21.64s,0.00,7.112524100,2.7900,,Transit Midpoint,0.000000,04/07/2018 10:51,2458215.95214,1.03
+8,,Custom: EPIC212099230,,08h32m18.00s,22d00m21.64s,0.00,7.112524100,2.7900,,Transit Midpoint,0.000000,04/14/2018 13:33,2458223.06466,1.45
+9,,Custom: EPIC212099230,,08h32m18.00s,22d00m21.64s,0.00,7.112524100,2.7900,,Transit Midpoint,0.000000,06/10/2018 11:09,2458279.96486,2.20

@@ -1,0 +1,23 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Dec 19 19:43:26 2017
+#
+# COLUMN UserName:       User Name
+# COLUMN PlanetName:     Planet Name
+# COLUMN SourceTable:    Source Table
+# COLUMN RA_sex:         RA [sexagesimal]
+# COLUMN Dec_sex:        Dec [sexagesimal]
+# COLUMN Phase:          Phase
+# COLUMN Period:         Period [days]
+# COLUMN TransitDuration: Transit Duration [hours]
+# COLUMN TTV:            TTV flag
+# COLUMN Algorithm:      Algorithm
+# COLUMN PropMidpointUnc: Propagated Midpoint Uncertainty [days]
+# COLUMN MidpointCalendar: Event Midpoint Calendar UT
+# COLUMN MidpointJD:     Event Midpoint Calendar UT
+# COLUMN MidpointAirmass: Event Midpoint Airmass
+#
+rowid,UserName,PlanetName,SourceTable,RA_sex,Dec_sex,Phase,Period,TransitDuration,TTV,Algorithm,PropMidpointUnc,MidpointCalendar,MidpointJD,MidpointAirmass
+1,,Custom: EPIC211733267,,08h40m02.26s,16d22m20.68s,0.00,8.658391600,1.1114,,Transit Midpoint,0.000000,12/27/2017 04:06,2458114.67086,1.04
+2,,Custom: EPIC211733267,,08h40m02.26s,16d22m20.68s,0.00,8.658391600,1.1114,,Transit Midpoint,0.000000,01/22/2018 03:30,2458140.64603,1.13
+3,,Custom: EPIC211733267,,08h40m02.26s,16d22m20.68s,0.00,8.658391600,1.1114,,Transit Midpoint,0.000000,02/17/2018 02:54,2458166.62121,1.35
+4,,Custom: EPIC211733267,,08h40m02.26s,16d22m20.68s,0.00,8.658391600,1.1114,,Transit Midpoint,0.000000,03/15/2018 02:18,2458192.59638,1.83

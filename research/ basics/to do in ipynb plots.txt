@@ -1,0 +1,63 @@
+01/13
+plot Earth-like planets accdg by filtering the ff params:
+
+>radius
+>temperature
+>bulk composition
+>stellar host type
+>rotation rate
+>companion moon
+>big brother gas giant planet 
+>geologic activity
+>existence of water
+>atmosphere composition
+
+11/22
+Blindly plot the mass and radius of planets (with available data) with uncertainties
+Use clustering algorithm to get planet groups (perhaps refers to distinct planet regimes)
+Get mass radius relation for each planet grouping
+Different relations applies for different planet regimes (close-in, far-out)
+Extrapolate the mass of the planet for each regime 
+
+
+Radius and Teq
+Regime convergence (transit+RV, imaging+RV, microlensing+RV+transit)
+Extreme planets
+
+11/14
+Use Neural Nets to model the distribution of directly imaged exoplanets and compare it to the empirically-determined distribution for RV planets (see Brandt 2014)
+Check plot semi-major axis vs. planetary radius and look for far-away (or long period) super-Earth/mini-Neptunes that can be interesting targets for or direct imaging
+
+Explore the architecture (e.g. Kepler’s 3rd law still holds?) in multiple planetary systems
+https://en.wikipedia.org/wiki/List_of_multiplanetary_systems
+
+Reproduce exoplanet.org sample plots (see also plots of Hori-san)
+http://th.nao.ac.jp/MEMBER/hori/pdf/HORI_2012Dec3-5.pdf
+
+Super-Earths or mini-Neptune?
+
+Overlap between RV and Transiting planets: plot mass and radius → density (solid, rocky, icy, thick atmosphere?)
+
+11/11
+List/compile astronomy/physics mechanisms
+Accessing exoplanet database and plotting + tweaking (similar with featured plots here: http://exoplanetarchive.ipac.caltech.edu/exoplanetplots/)
+Blackbody
+Substellar cooling curves (see COND in Baraffe’s website)
+Spiegel/Burrows warm-start; BT-Settl hot start ()
+Spiegel 2012, ApJ, 745, 174
+Allard 2011, ASPCS, 448, 91
+Radiative Transfer
+N-body simulation of the solar system
+Validate that stellar PSF scales with wavelength
+See pdf: https://github.com/djones1040/PythonPhot
+Kozai mechanism
+https://github.com/joe-antognini/kozai
+https://github.com/joe-antognini/kozai/blob/master/docs/tutorial.ipynb
+Dissertation: Adventures in the Kozai-Lidov Mechanism 
+Get code of this https://www.cfa.harvard.edu/sites/www.cfa.harvard.edu/files/images/projects/TA//mymovieFlipBlack.gif
+Basic star+planet formation? (see Ikoma-san lectures)
+
+
+DONE:
+Kepler’s 3rd law (see Tutorial_01_Exoplanet_Plots.ipynb)
+Multiplanet systems trends and distribution (see Hot Jupiters.ipynb?)
